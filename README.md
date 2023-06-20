@@ -1,1 +1,1 @@
-# Linear-Algebra-Pythonwise
+# Following the book: Linear Algebra: Theory, Intuition, Code
